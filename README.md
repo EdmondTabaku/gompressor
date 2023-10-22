@@ -1,7 +1,7 @@
 
 # 🤐 Gompressor
 
-Introducing Gompressor, a simple and slow text-based file compressor written in go. 
+Introducing Gompressor, a simple and slow, text-based file compressor written in go. 
 
 
 ## ⁉️ How does it work?
