@@ -37,6 +37,10 @@ The first variable is the **extension variable**, which will be used when we unz
 
 
 
+## 🤨 How to use it?
+
+Just run the **gompressor** command and it will show you how to use it
+
 
 ## 📦 Installation
 
