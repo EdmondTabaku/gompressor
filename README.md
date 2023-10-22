@@ -16,7 +16,7 @@ The first variable is the **extension variable**, which will be used when we unz
 
  The format is like this: **``` \e[the file extension]\ ```**
 
- Then there are the *content variables*, which are sortet from the last to the beginning.
+ Then there are the **content variables**, which are sorted from the last to the beginning.
 
  The format is like this: **``` \d\[second variable content]\d\[first variable content]\d\```**
 
